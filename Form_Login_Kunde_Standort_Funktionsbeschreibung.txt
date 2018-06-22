@@ -18,6 +18,8 @@ KEINE AHNUNG WIE
 ERLEDIGT
 3. NeuerStandort --> Button Weiter drücken um die Form: frm_StandortHinzufügen
 ERLEDIGT
+4. Kunde Ändern --> Button ist fertig verweist auch auf die neue Form
+aber die Form ist noch nicht visuell dargestellt da gerade kein plan wie es aussehen soll.
 
 Machen wir ersteinmal weiter mit KundeHinzufügen. In der Form: KundeHinzufügen gibt es:
 Möglichkeiten:

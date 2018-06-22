@@ -1,0 +1,36 @@
+Programm Start:
+
+Form: frm_Login öffnet sich.
+Möglichkeiten: 
+1.Felder befüllen und auf Anmelden drücken um sich Anzumelden
+ERLEDIGT
+2. Felder befüllen und auf Hinzufügen drücken um neuen Benutzer anzulegen.
+Nicht erledigt, Probleme.
+
+Nachdem sich dann Angemeldet wurde, öffnet sich die Form: frm_Kunde
+Möglichkeiten:
+1.Es ist eine ComboBox vorhanden, die ein DropDown feld darstellen soll.
+In dieser CB soll eine Liste der vorhandenen Kunden erscheinen, in welcher man aussuchn kann mit welchem man sich verbinden möchte man klickt nun in der CB
+seinen gewünschten Kunden an, und dieser soll dann als Index gesetzt werden.
+Hat man sich nun einen Kunden ausgesucht drückt man auf Auswählen und die Form: frm_Inventarisierung öffnet sich.
+KEINE AHNUNG WIE
+2. NeuerKunde --> Button Weiter drücken und die Form: frm_KundeHinzufügen öffnet sich.
+ERLEDIGT
+3. NeuerStandort --> Button Weiter drücken um die Form: frm_StandortHinzufügen
+ERLEDIGT
+
+Machen wir ersteinmal weiter mit KundeHinzufügen. In der Form: KundeHinzufügen gibt es:
+Möglichkeiten:
+1. textbox füllen und auf Hinzufügen drücken. Kundenname wird dann in die Datenbank geschrieben.
+2. zurück button drücken bringt einen zurück zur frm_Kunde.
+MAL WIEDER ZU DUMM
+
+Nun wieder auf der Form: frm_Kunde geht es jetzt um den Neuen Standort:
+Button klick auf Weiter:
+Form: frm_StandortHinzufügen öffnet sich.
+Möglichkeiten:
+1. Kunde auswählen aus einer Combobox
+2. in Textbox name des standorts geben
+3. Button Anlegen
+4. Button zurück
+AGAIN I`M STUPID

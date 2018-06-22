@@ -18,8 +18,8 @@ KEINE AHNUNG WIE
 ERLEDIGT
 3. NeuerStandort --> Button Weiter drücken um die Form: frm_StandortHinzufügen
 ERLEDIGT
-4. Kunde Ändern --> Button ist fertig verweist auch auf die neue Form
-aber die Form ist noch nicht visuell dargestellt da gerade kein plan wie es aussehen soll.
+4. Kunde Ändern --> Button ist fertig verweist auch auf die neue Form: frm_KundeÄndern
+ERLEDIGT
 
 Machen wir ersteinmal weiter mit KundeHinzufügen. In der Form: KundeHinzufügen gibt es:
 Möglichkeiten:
@@ -27,7 +27,7 @@ Möglichkeiten:
 2. zurück button drücken bringt einen zurück zur frm_Kunde.
 MAL WIEDER ZU DUMM
 
-Nun wieder auf der Form: frm_Kunde geht es jetzt um den Neuen Standort:
+Nun wieder auf der Form: frm_Kunde geht es jetzt um den Neuen StandortHinzufügen:
 Button klick auf Weiter:
 Form: frm_StandortHinzufügen öffnet sich.
 Möglichkeiten:
@@ -37,3 +37,11 @@ Möglichkeiten:
 3. Button Anlegen
 4. Button zurück
 AGAIN I`M STUPID
+
+Letzte Punkt der überdie Kunden Form möglich ist KundenÄndern:
+Form: frm_KundeÄndern
+Möglichkeiten:
+1. Es gibt eine tb die nicht änderbar ist in der die KundenID stehen soll. Habe ich mir so gedacht, das dies aus der vorherigen Form übernommen wird, wo man den Kunden ausgewählt hat.
+2. Tb wo der Kunden Name drinne steht sie 1. auch wieder übernehmen. Aber änderbar so das dort der inhalt geändert werden kann und durch
+3. klick auf Button Ändern die Daten in der DB geupdated werden.
+4. Button Zurück zur frm_Kunde

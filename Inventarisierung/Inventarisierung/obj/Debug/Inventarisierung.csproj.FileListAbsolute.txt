@@ -1,0 +1,26 @@
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\bin\Debug\Inventarisierung.exe.config
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\bin\Debug\Inventarisierung.exe
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\bin\Debug\Inventarisierung.pdb
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.csprojResolveAssemblyReference.cache
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_Login.resources
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.Properties.Resources.resources
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.csproj.GenerateResource.Cache
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.exe
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.pdb
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_Kunde.resources
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_Inventarisierung.resources
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_KundeHinzufügen.resources
+C:\Users\mwicharz\Documents\Visual Studio 2015\Projects\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_Liste.resources
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\bin\Debug\Inventarisierung.exe.config
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.exe
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.pdb
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\bin\Debug\Inventarisierung.exe
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\bin\Debug\Inventarisierung.pdb
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.csprojResolveAssemblyReference.cache
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_Inventarisierung.resources
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_Kunde.resources
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_KundeHinzufügen.resources
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_Liste.resources
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.frm_Login.resources
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.Properties.Resources.resources
+C:\Users\Marcel Wicharz\Desktop\Inventarisierungsprojekt\Inventarisierung\Inventarisierung\Inventarisierung\obj\Debug\Inventarisierung.csproj.GenerateResource.Cache

@@ -30,7 +30,8 @@ Button klick auf Weiter:
 Form: frm_StandortHinzufügen öffnet sich.
 Möglichkeiten:
 1. Kunde auswählen aus einer Combobox
-2. in Textbox name des standorts geben
+2. Standort auswählen aus einer Combobox
+2. in Textbox name eines komplett neuen standortes eingeben
 3. Button Anlegen
 4. Button zurück
 AGAIN I`M STUPID
